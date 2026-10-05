@@ -6,9 +6,9 @@ def test_critical_login():
 @pytest.mark.smoke
 def test_critical_checkout():
         assert True
-@pytest.mark.smoke
+@pytest.mark.slow
 def test_full_report_generation():
         assert True
-@pytest.mark.smoke
+@pytest.mark.regression
 def test_old_bug_stays_fixed():
         assert True
