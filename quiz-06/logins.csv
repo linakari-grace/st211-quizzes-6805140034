@@ -1,0 +1,4 @@
+username,password,valid
+admin,admin123,True
+hacker,,False
+,nopassword,False
