@@ -1,4 +1,4 @@
-#Structure
+# Structure
 
 weather.py, test_weather.py – Weather functions and mocking tests.
 
@@ -14,19 +14,19 @@ date_utils.py, test_date_utils.py – Date utilities and patching.
 
 test_verify_calls.py – Verifying mock calls and arguments.
 
-#Requirements
+# Requirements
 
 Python 3
 
 pytest
 
-#Installation
+# Installation
 
 Install pytest:
 
 pip install pytest
 
-#Running Tests
+# Running Tests
 
 Run all tests:
 
